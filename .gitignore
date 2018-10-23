@@ -5,9 +5,10 @@
 # Files for the ART/Dalvik VM
 *.dex
 
+gradle/wrapper/gradle-wrapper.properties
 # Java class files
 *.class
-
+.idea
 # Generated files
 bin/
 gen/
